@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://foshesco:foshesco@cluster0-qfpr9.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtToken": "mysecrettoken",
+  "githubClientId": "a4f8fa567b49ce3d3147",
+  "githubSecret": "33fec04f4dbbfdd12072d648d66724d6e495f7f1"
+}
